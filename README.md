@@ -97,8 +97,8 @@ bash
 
 
 python3 client.py
-Username: dhileep
-Password: pass1389
+Username: <demo-user>
+Password: <demo-password>
 Interactive Commands:
 
 ping: Measures end-to-end latency in milliseconds.
