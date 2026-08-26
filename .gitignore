@@ -1,9 +1,6 @@
-.env
-__pycache__/
-*.py[cod]
-*.pyo
 venv/
-.venv/
-*.log
-*.key
-server_identity.pem
+.env
+*.pem
+certs/
+securevpn.log
+__pycache__/
