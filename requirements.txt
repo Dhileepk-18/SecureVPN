@@ -1,0 +1,4 @@
+pycryptodome>=3.19.0
+cryptography>=41.0.0
+bcrypt>=4.1.0
+python-dotenv>=1.0.0
